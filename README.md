@@ -1,2 +1,5 @@
 # server-common-util
-通用工具类集合
+
+okapi's common base util library
+
+工程服务端基础工具库
